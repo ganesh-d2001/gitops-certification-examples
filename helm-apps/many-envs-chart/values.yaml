@@ -8,6 +8,7 @@ image:
   pullPolicy: IfNotPresent
   repository: kostiscodefresh/gitops-simple-app
   tag: v3.0
+  # test
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
